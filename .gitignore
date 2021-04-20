@@ -3,3 +3,6 @@ build
 npm-debug.log
 .env
 .DS_Store
+tokens
+rand.webp
+rand.zip
